@@ -6,7 +6,7 @@
             <name>Cassandra</name>
             <displayName>Cassandra</displayName>
             <comment>Distributed database</comment>
-            <version>3.0.9</version>
+            <version>3.11.3</version>
             <components>
                <component>
                     <name>Cluster-Hosts</name>
