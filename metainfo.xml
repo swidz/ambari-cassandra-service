@@ -39,7 +39,7 @@
                             <name>cassandra</name>
                         </package>
                         <package>
-                            <name>opscenter</name>
+                            <name>cassandra-tools</name>
                         </package>
                     </packages>
                 </osSpecific>
